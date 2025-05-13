@@ -7,16 +7,19 @@ The project is lead by the Universidad Rey Juan Carlos (URJC). You can contact u
 
 ## 🌈 Contribution guidelines - how can the community get involved?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec urna at elit porttitor volutpat. Cras condimentum magna in auctor elementum. Proin sem lectus, placerat sit amet mattis et, dictum at ante. Donec quam ipsum, dictum sit amet purus at, faucibus interdum elit. Mauris at augue vitae metus maximus placerat. Fusce ac elit metus. 
+You can contribute to the project in the following ways:
+- If you detect errors or have doubts about the operation, publish a issue.
+- To contribute to development improvements, make a project fork, create a branch of functionality and make a Pull Request (Pr).
+- To collaborate continuously, contact us.
+ 
+## 🎯 Subprojects
 
-## Subproyectos
+**MejorAbierta** has two lines of work. The first focuses on the development of OJS/OMP plugins, while the second aims to develop materials and document the development process in a collaborative framework.
 
-Mejor Abierta tiene dos líneas de trabajo. La primera se centra en el desarrollo de plugins para OJS/OMP, mientras que la segunda pretende elaborar materiales y documentar el proceso de desarrollo en un marco colaborativo.
+The available pugins are:
+- [OpenID](https://github.com/MejorAbierta/openidPlugin): Expanding the functionalities of the OJS official plugin.
+- [FECYT Reports](https://github.com/MejorAbierta/fecytQualitySealPlugin): URJC is the new holder of the FECYT quality seal plugin.
+- [Report Generator MejorAbierta](https://github.com/MejorAbierta/mejorAbiertaPlugin): Plugin that allows you to create reports of any kind.
 
-Los pugins disponibles son:
-- OpenID: Ampliación de las funcionalidades del plugin oficial de OJS.
-- Informes FECYT: URJC es el nuevo mantenedor del plugin del sello de calidad FECYT.
-- Generador de Informes MejorAbierta: Plugin que permite crear informes de cualquier tipo.
-
-La documetación estará disponible en:
-- Documentación
+Documetation will be available in:
+- [Documentation](https://github.com/MejorAbierta/general)
