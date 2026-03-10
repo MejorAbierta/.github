@@ -22,4 +22,5 @@ The available pugins are:
 - [Advanced Report Tool Suite](https://github.com/MejorAbierta/ARTSPlugin): A plugin for OJS/OMP that allows you to create reports of any kind.
 
 Documetation will be available in:
+- [About the project](https://mejorabierta.github.io/web/)
 - [Documentation](https://github.com/MejorAbierta/general)
